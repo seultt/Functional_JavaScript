@@ -39,12 +39,21 @@ Functional JavaScript [마이클 포커스] 의 표기법 규칙을 따른다.
 
 
 
+
 ## 스터디 구성원
 
 이 스터디는 실무 개발 역량 강화를 위한 컴퓨터 공학 CAMP 1기에서 시작되었습니다.
 
 - 김해든
 - 이슬기
+
+
+
+
+# Summary
+
+- [20180212 Start Functional JavaScript](./summary/20180212.md)
+
 
 
 
