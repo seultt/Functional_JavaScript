@@ -52,7 +52,7 @@ Functional JavaScript [마이클 포커스] 의 표기법 규칙을 따른다.
 
 # Summary
 
-- [20180212 Start Functional JavaScript](./summary/20180212.md)
+- [20180212 Start Functional JavaScript](./Summary/20180212.md)
 
 
 
